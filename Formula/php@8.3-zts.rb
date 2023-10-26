@@ -7,7 +7,7 @@ class PhpAT83Zts < Formula
   license "PHP-3.01"
 
   bottle do
-    root_url "https://ghcr.io/v2/shivammathur/php"
+    root_url "https://ghcr.io/v2/xywf221/php"
     rebuild 272
     sha256 arm64_sonoma:   "4c9b24176dd97372b3e1e85c4aaf0368043f23f9bd7b9279971e72cb99579f2b"
     sha256 arm64_ventura:  "336de28443d5214a84670366d811f1b9c5e9207706fc86f4663d17154777ab95"

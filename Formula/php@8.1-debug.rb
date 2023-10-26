@@ -7,7 +7,7 @@ class PhpAT81Debug < Formula
   license "PHP-3.01"
 
   bottle do
-    root_url "https://ghcr.io/v2/shivammathur/php"
+    root_url "https://ghcr.io/v2/xywf221/php"
     sha256 arm64_sonoma:   "56fc7c68b233972d90d9b35c8e45f6d690ece552fddd884bd47fb3b5ab06a5b9"
     sha256 arm64_ventura:  "633a7b418db6fa56e23731cfdd6fdc8009de82d8ba999f61808bfcf36347f609"
     sha256 arm64_monterey: "1f993465dc258f060f1122a3323e21e4a2708b6c0cc186c74c69f64fc58357c1"

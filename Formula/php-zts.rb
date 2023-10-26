@@ -13,7 +13,7 @@ class PhpZts < Formula
   end
 
   bottle do
-    root_url "https://ghcr.io/v2/shivammathur/php"
+    root_url "https://ghcr.io/v2/xywf221/php"
     sha256 arm64_sonoma:   "3845a28d8357b5939a976e260f053f284a60de247dcfc4f791770eabe8ad5323"
     sha256 arm64_ventura:  "a028d77d6e5a3c7ae0297ce1c478186886d6dd36c07310cf2ae7d28af35fcaf3"
     sha256 arm64_monterey: "52917014a0bc8715139279ff1a1dfc6bad22473f37faad025b2e180453ead959"

@@ -33,12 +33,6 @@
 
 | PHP Version   | Formula            | Debug version                  |
 |---------------|--------------------|--------------------------------|
-| PHP 5.6       | `php@5.6`          | `php@5.6-debug`                |
-| PHP 7.0       | `php@7.0`          | `php@7.0-debug`                |
-| PHP 7.1       | `php@7.1`          | `php@7.1-debug`                |
-| PHP 7.2       | `php@7.2`          | `php@7.2-debug`                |
-| PHP 7.3       | `php@7.3`          | `php@7.3-debug`                |
-| PHP 7.4       | `php@7.4`          | `php@7.4-debug`                |
 | PHP 8.0       | `php@8.0`          | `php@8.0-debug`                |
 | PHP 8.1       | `php@8.1`          | `php@8.1-debug`                |
 | PHP 8.2       | `php` or `php@8.2` | `php-debug` or `php@8.2-debug` |

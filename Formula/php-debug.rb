@@ -13,7 +13,7 @@ class PhpDebug < Formula
   end
 
   bottle do
-    root_url "https://ghcr.io/v2/shivammathur/php"
+    root_url "https://ghcr.io/v2/xywf221/php"
     sha256 arm64_sonoma:   "678fa55ed30b2ca3594caed74d990c1848963b00d15d211506c6dd27577424ec"
     sha256 arm64_ventura:  "f4067decf8063020ec505a7f4c193edcabe1c2605892600d94324757405787cf"
     sha256 arm64_monterey: "3bffa63e186f11c1e733e9b0299f099d3d2319c0f63c6c2b3ae210a47cd573de"

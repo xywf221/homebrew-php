@@ -42,7 +42,7 @@ module.exports = async ({github, context, core}, formula_detect) => {
     core.setOutput('container', JSON.stringify(container))
 
     const test_bot_formulae_args = ["--only-formulae", "--junit", "--only-json-tab", "--skip-dependents"]
-    test_bot_formulae_args.push('--root-url="https://ghcr.io/v2/shivammathur/php"')
+    test_bot_formulae_args.push('--root-url="https://ghcr.io/v2/xywf221/php"')
     test_bot_formulae_args.push(`--testing-formulae=${formula_detect.testing_formulae}`)
     test_bot_formulae_args.push(`--added-formulae=${formula_detect.added_formulae}`)
     test_bot_formulae_args.push(`--deleted-formulae=${formula_detect.deleted_formulae}`)
