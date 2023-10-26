@@ -1,4 +1,4 @@
-class PhpAT81 < Formula
+class PhpAT81Zts < Formula
   desc "General-purpose scripting language"
   homepage "https://www.php.net/"
   url "https://www.php.net/distributions/php-8.1.24.tar.xz"

@@ -1,4 +1,4 @@
-class PhpAT83 < Formula
+class PhpAT83Zts < Formula
   desc "General-purpose scripting language"
   homepage "https://www.php.net/"
   url "https://github.com/php/php-src/archive/a64b48ba92182136dfa13ff944bc0942b97d5977.tar.gz?commit=a64b48ba92182136dfa13ff944bc0942b97d5977"
